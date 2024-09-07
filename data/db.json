@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "React JS",
+      "datetime": "Sep 07, 2024 10:55:05 AM",
+      "body": "Front-end Framework"
+    },
+    {
+      "id": "2",
+      "title": "Node JS",
+      "datetime": "Sep 07, 2024 11:28:58 AM",
+      "body": "Back-end Framework"
+    },
+    {
+      "id": "3",
+      "title": "Express JS",
+      "datetime": "Sep 07, 2024 11:29:07 AM",
+      "body": "Lets complete mern"
+    },
+    {
+      "id": "31",
+      "title": "Mongo DB",
+      "datetime": "Sep 07, 2024 12:11:56 PM",
+      "body": "No sql Database"
+    },
+    {
+      "id": "311",
+      "title": "Congrats",
+      "datetime": "Sep 07, 2024 2:15:02 PM",
+      "body": "Hope you got lot of values"
+    }
+  ]
+}
