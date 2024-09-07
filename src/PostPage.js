@@ -3,7 +3,7 @@ import { Link, useParams } from 'react-router-dom'
 import DataContext from './context/DataContext';
 
 const PostPage = () => {
-  const {posts,handleDelete,handleEdit} = useContext(DataContext);
+  const {posts,handleDelete} = useContext(DataContext);
   const {id} =useParams();
   const post = posts.find(post => (post.id).toString()===id);
   return (
